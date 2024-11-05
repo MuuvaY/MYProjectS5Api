@@ -1,0 +1,90 @@
+[2024-10-29 9:42:34]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 9:42:36]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 9:43:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 9:43:34]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 9:43:42]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 10:23:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 10:24:24]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 10:25:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 10:25:26]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
+[2024-10-29 10:28:27]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/tp5_RESTFULL/starter-mvc/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 26 file is not a database'
