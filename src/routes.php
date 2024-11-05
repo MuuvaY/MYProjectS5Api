@@ -9,17 +9,32 @@ les routes
 
 return [
 
-    ['GET', '/api/v1/fake-datas/posts', 'post@index'],
+    /* Routes pour les fighters */
 
-    ['GET', '/api/v1/fake-datas/posts/{id:\d+}', 'post@show'],
+    ['GET', '/fighters', 'fighters@index'],
 
-    ['POST', '/api/v1/fake-datas/posts', 'post@create'],
+    ['GET', '/fighters/{id:\d+}', 'fighters@show'],
 
-    ['PATCH', '/api/v1/fake-datas/posts/{id:\d+}', 'post@update'],
+    ['POST', '/fighters', 'fighters@create'],
 
-    ['DELETE', '/api/v1/fake-datas/posts/{id:\d+}', 'post@delete'],
+    ['PATCH', '/fighters/{id:\d+}', 'fighters@update'],
 
-    ['OPTION', '/api/v1/fake-datas/posts', 'post@option'],
+    ['DELETE', '/fighters/{id:\d+}', 'fighters@delete'],
+
+    ['OPTION', '/fighters', 'fighters@option'],
+
+    /* Routes pour les fights */
+
+    ['GET', '/fights', 'fights@index'],
+
+    ['GET', '/fights/{id:\d+}', 'fights@show'],
+
+    ['POST', '/fights', 'fights@create'],
+
+    ['PATCH', '/fights/{id:\d+}', 'fights@update'],
+
+    ['DELETE', '/fights/{id:\d+}', 'fights@delete'],
+
 
 
 ];

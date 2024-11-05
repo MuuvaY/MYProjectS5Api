@@ -1,0 +1,96 @@
+[2024-11-05 17:08:49]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 no such table: post'
+[2024-11-05 17:09:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'post@index',
+        2 => array(),
+    )
+    exception-line: 241
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 no such table: post'
+[2024-11-05 17:33:28]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@create',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 table fighters has no column named user_id'
+[2024-11-05 17:34:13]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@create',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 table fighters has no column named user_id'
+[2024-11-05 17:39:49]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@create',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 table fighters has no column named user_id'
+[2024-11-05 17:40:03]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@create',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 table fighters has no column named user_id'
+[2024-11-05 17:41:43]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@create',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Model/Model.php'
+    exception-code: 'SQLSTATE[HY000]: General error: 1 table fighters has no column named user_id'
+[2024-11-05 17:48:17]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@update',
+        2 => array(
+            'id' => '6',
+        ),
+    )
+    exception-line: 62
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Controller/FightersController.php'
+    exception-code: 'Undefined array key "age"'
+[2024-11-05 17:49:04]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@update',
+        2 => array(
+            'id' => '6',
+        ),
+    )
+    exception-line: 63
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Controller/FightersController.php'
+    exception-code: 'Undefined array key "weight_class"'
+[2024-11-05 17:49:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'fighters@update',
+        2 => array(
+            'id' => '6',
+        ),
+    )
+    exception-line: 63
+    exception-file: '/Users/mariusyvart/Documents/BUT MMI Angouleme/S5/LOUET F/MYProjectS5Api/src/Controller/FightersController.php'
+    exception-code: 'Undefined array key "weight_class"'
